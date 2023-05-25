@@ -10,9 +10,8 @@ model.py : model definitions
 utils.py : some util functions  
 
 ## Requirements
-python 3.8  
-pytorch 2.0.0  
-TODO: requirements.txt coming later  
+To install virtual environment for python3.8  
+./setup.sh  
 
 ## Usage
 python3 main.py
